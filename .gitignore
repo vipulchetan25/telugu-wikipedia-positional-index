@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Wikipedia dump
+*.bz2
+*.xml
+
+# Generated data
+data/articles.json
+data/positional_index.json
+
+# Flask
+instance/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
